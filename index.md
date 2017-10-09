@@ -6,7 +6,7 @@
 
 </div>
 
-<div class"stbody">
+<div class="stbody">
 
 <h3 class="sth3">
 We are a game studio based in Melbourne Australia
